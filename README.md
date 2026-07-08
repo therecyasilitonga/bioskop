@@ -7,6 +7,8 @@ Aplikasi ini kompatibel 100% dengan **Expo Go SDK 54 (versi 54.0.8)** sehingga d
 ---
 
 ##Splash
+---
+
 
  <img width="234" height="491" alt="image" src="https://github.com/user-attachments/assets/806a9033-02a3-4f2a-926d-fb7b5f7b984c" />
 
