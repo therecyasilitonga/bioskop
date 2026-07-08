@@ -6,7 +6,45 @@ Aplikasi ini kompatibel 100% dengan **Expo Go SDK 54 (versi 54.0.8)** sehingga d
 
 ---
 
-## 🚀 Fitur Utama
+Splash
+ <img width="234" height="491" alt="image" src="https://github.com/user-attachments/assets/806a9033-02a3-4f2a-926d-fb7b5f7b984c" />
+
+Akun baru pengguna
+<img width="309" height="634" alt="image" src="https://github.com/user-attachments/assets/4cf07871-869c-4ee6-afb3-27547e8bbcaf" />
+<img width="334" height="635" alt="image" src="https://github.com/user-attachments/assets/f1a1c1fe-f22b-4fe3-b3d0-c564a02a5896" />
+<img width="310" height="629" alt="image" src="https://github.com/user-attachments/assets/2342f2ab-d789-410d-b20a-d1092249bd9c" />
+
+
+
+Halaman login
+<img width="278" height="579" alt="image" src="https://github.com/user-attachments/assets/70c7e449-1c00-42c3-9933-70981b8ea9cb" />
+
+lupa kata sandi
+ <img width="300" height="623" alt="image" src="https://github.com/user-attachments/assets/f25eec79-6eee-4d78-aaa0-1b96d79c27bb" />
+
+
+Buat akun
+ <img width="225" height="495" alt="image" src="https://github.com/user-attachments/assets/843c9ad7-03af-434f-8f4f-8755ba109a56" />
+
+Beranda
+<img width="263" height="550" alt="image" src="https://github.com/user-attachments/assets/1a78f5a6-9e22-4ab3-8b6b-8c924d20fce1" />
+
+membantu mencari film dengan voice
+ <img width="323" height="669" alt="image" src="https://github.com/user-attachments/assets/70d161cb-dd89-43d1-9b7b-1c0e1a5fe601" />
+
+Halaman tiket
+tiket kosong karena belum pernah membeli tiket, karna pengguna baru
+<img width="249" height="509" alt="image" src="https://github.com/user-attachments/assets/29212ae0-6bc0-45f5-b192-8afae6aa2a1e" />
+
+
+Halaman profile saya
+<img width="315" height="659" alt="image" src="https://github.com/user-attachments/assets/6d94ef9b-1c91-4b18-b5ca-9ff3e8579c6b" />
+ 
+
+
+---
+
+## Fitur Utama
 
 1. **Lokasi & Mitra Mall Pekanbaru**:
    - Manajemen lokasi default di kota Pekanbaru.
@@ -30,7 +68,7 @@ Aplikasi ini kompatibel 100% dengan **Expo Go SDK 54 (versi 54.0.8)** sehingga d
 
 ---
 
-## 📁 Struktur Proyek (Folder Structure)
+##  Struktur Proyek (Folder Structure)
 
 ```text
 cinepekan/
@@ -54,7 +92,7 @@ cinepekan/
 
 ---
 
-## 🛠️ Langkah Menjalankan Aplikasi
+## Langkah Menjalankan Aplikasi
 
 Pastikan Anda telah menginstal **Node.js** di komputer Anda dan aplikasi **Expo Go** pada ponsel Android atau iOS Anda.
 
@@ -112,5 +150,5 @@ getNowShowing: async () => {
 ```
 
 ---
-💡 **Catatan Mengenai react-native-mmkv**:
+**Catatan Mengenai react-native-mmkv**:
 Kode pembacaan data cepat menggunakan MMKV sudah diintegrasikan di dalam [storageAdapter.js](file:///d:/semester%206/imk/bioskop/src/storage/storageAdapter.js) secara kondisional dalam komentar. Jika Anda beralih ke Bare/Dev Client, cukup aktifkan baris MMKV dan nonaktifkan AsyncStorage.
